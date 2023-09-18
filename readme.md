@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 Time is an indespensible tool in any work of life, however it is limited. Millions of people all over the world use
-twitter everyday. It will therefore be very difficult to put a sentiment on every tweet that comes in. 
+Twitter (which in now called X) everyday. It will therefore be very difficult to put a sentiment on every tweet that comes in. 
 
 This project focuses on predicting the sentiment on tweets from Twitter.
 
