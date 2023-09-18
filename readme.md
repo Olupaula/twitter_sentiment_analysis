@@ -10,7 +10,7 @@ This project focuses on predicting the sentiment on tweets from Twitter.
 ## Label
 - Sentiment: which can be either Positive, Negative or Neutral.
 
-# Models Used
+## Models Used
 - Naive Bayes
 - K-Nearest Neighbours
 - Decision Tree
@@ -18,11 +18,11 @@ This project focuses on predicting the sentiment on tweets from Twitter.
 - Convolutional Neural Network
 - Recurrent Neural Network
 
-# Performance Evaluation Metrics
+## Performance Evaluation Metrics
 The accuracy score was used to evaluate the models. Both the RNN and the CNN equally 
 have the best performance among all the models. 
 
-Packages Used:
+## Packages Used:
 - Sklearn
 - Keras
 - Numpy
